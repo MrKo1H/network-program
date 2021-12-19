@@ -1,0 +1,4 @@
+address localhost
+port 1608
+client_id CLIENT_B
+location HA_NOI
